@@ -1,5 +1,8 @@
 # colorGradient.github.io
 
+This is my mini project - 2/7
+-----------------------------------------------
+
 This is a simple linear color gradient generator which gives the CSS code which you can copy and use 
 
 Snaps of the product: 
